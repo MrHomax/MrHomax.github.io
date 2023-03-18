@@ -82,11 +82,8 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 
 ## Ha-Ha the comment is here again!
 
-<<<<<<< HEAD
 
-=======
->>>>>>> b3ba27a (Test: Add 2 empty lines)
-## Ho-Ho The last line?
+## Ho-Ho The last line? Not at all!
 
 ## Something...
 
