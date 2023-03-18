@@ -83,7 +83,7 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 ## Ha-Ha the comment is here again!
 
 
-## Ho-Ho The last line? Not at all!
+## Ho-Ho The last line?
 
 ## Something...
 
